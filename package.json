@@ -14,7 +14,7 @@
     "ffmpeg-binaries": "^4.0.0",
     "opusscript": "0.0.6"
   
-     }
+     },
    "engines": {
      "node": "10.16.0",
      "npm": "6.9.0"
